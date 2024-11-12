@@ -57,6 +57,12 @@
 
 ---
 
+## Holophin Badges - Hactoberfest 2024 
+[![An image of @dipexplorer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipexplorer)](https://holopin.io/@dipexplorer)
+
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">

@@ -4,12 +4,12 @@
 
 
 <p align="center">
-  <a align="left"> <img src="https://komarev.com/ghpvc/?username=dipexplorer&label=Profile%20views&color=0e75b6&style=flat" alt="dipexplorer" /> </a>
+  <a align="left"> <img src="https://komarev.com/ghpvc/?username=dipexplorer&label=Profile%20views&color=0e75b6&style=flat" alt="dipexplorer" /> </a> 
   <a href="https://linkedin.com/in/dip-jyoti22/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /> 
   </a>
-  <a href="mailto:dipexplorerid23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" />
+  <a href="mailto:dipexplorerid23@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=flat&logo=gmail&logoColor=0A0209" />
   </a>
 </p>
 

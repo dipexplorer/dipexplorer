@@ -4,14 +4,18 @@
 
 
 <p align="center">
-  <a align="left"> <img src="https://komarev.com/ghpvc/?username=dipexplorer&label=Profile%20views&color=0e75b6&style=flat" alt="dipexplorer"/></a>
-  <a href="https://linkedin.com/in/dip-jyoti22/" target="blank">
-    <img src="https://img.shields.io/badge/-Dip-blue?style=flat&logo=Linkedin&logoColor=white"/>
+  <a href="https://github.com/dipexplorer" target="_blank" style="text-decoration: none;">
+    <img src="https://komarev.com/ghpvc/?username=dipexplorer&label=Profile%20views&color=0e75b6&style=flat" alt="dipexplorer"/>
   </a>
-  <a href="mailto:dipexplorerid23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=flat&logo=gmail"/>
+  <a href="https://linkedin.com/in/dip-jyoti22/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Dip-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dipexplorerid23@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-dipexplorerid23-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+
 
 
 - 👯 Excited to collaborate on Full-Stack Web Development projects and Open-source contributions.

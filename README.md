@@ -39,6 +39,24 @@
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
 
 ---
+
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="120px" height="120px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="115px" height="115px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="110px" height="110px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+</div>
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -57,11 +75,20 @@
 
 ## 👯 Let's Collaborate
 
-I'm always open to collaborating on exciting full-stack web development projects or any open-source contributions. Feel free to reach out via [LinkedIn](https://linkedin.com/in/dip-jyoti22/) or drop me an email at [dipexplorerid23@gmail.com](mailto:dipexplorerid23@gmail.com).
+I'm always open to collaborating on exciting full-stack web development projects or any open-source contributions. Feel free to reach out via [LinkedIn](https://linkedin.com/in/dip-jyoti22/) or drop me an email at [dipexplorerid23@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=dipexplorerid23@gmail.com).
 
 ---
 
 ### 📧 Reach Out to Me
 
 [![LinkedIn](https://img.shields.io/badge/-Dip-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dip-jyoti22/)
-[![Gmail](https://img.shields.io/badge/-dipexplorerid23-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dipexplorerid23@gmail.com)
+[![Gmail](https://img.shields.io/badge/-dipexplorerid23-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=dipexplorerid23@gmail.com)
+
+<p align="center">
+  <b>Thank you for visiting my profile! 🌟</b><br>
+  <span>Feel free to explore my projects and reach out if you have any questions! 🚀</span>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=fadeIn&fontColor=ffffff" alt="Footer"/>
+</p>

@@ -8,6 +8,9 @@
   <a href="https://linkedin.com/in/dip-jyoti22/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
+  <a href="mailto:dipexplorerid23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" />
+  </a>
 </p>
 
 

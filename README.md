@@ -33,6 +33,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Wix Studio](https://img.shields.io/badge/-Wix%20Studio-000?style=flat&logo=wix&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/-Adobe-E14136?style=flat&logo=adobe&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-7C7C7C?style=flat&logo=robot&logoColor=white)

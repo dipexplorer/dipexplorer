@@ -69,7 +69,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipexplorer&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dipexplorer&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 📈 GitHub Profile Stats

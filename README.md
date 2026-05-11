@@ -1,14 +1,14 @@
 # Hi there 👋 I'm Dipjyoti Das
 
-I craft scalable software — APIs, backends, interactive web experiences. Focused on clean code, solid architecture, and contributing to open source that matters.
+I build modern web applications, scalable backend systems, and AI-powered developer tools.  
+I focus on writing maintainable software, solving real engineering problems, and contributing to impactful open-source projects.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dipexplorer&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/dipexplorer)
 [![LinkedIn](https://img.shields.io/badge/-Dip-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dip-jyoti22/)
 [![Gmail](https://img.shields.io/badge/-dipexplorerid23-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=dipexplorerid23@gmail.com)
 
-- 👯 Open to collaborating on open-source projects — web apps, developer tools, and AI/ML experiments.
-- 🌱 Currently diving deep into **AI/ML, NLP, RAG Pipelines** with **Java** — reinforcing **DSA** fundamentals and exploring production-grade implementations.
-
+- 👯 Open to collaborating on open-source projects, developer tools, backend systems, and AI-driven applications.
+- 🌱 Currently exploring AI/ML, NLP, and RAG pipelines while deeply focused on mastering Data Structures, Algorithms, and problem-solving.
 ---
 
 ### 💻 Tech Stack

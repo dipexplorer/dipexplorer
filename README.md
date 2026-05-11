@@ -1,68 +1,77 @@
 # Hi there 👋 I'm Dipjyoti Das
 
-### Welcome to my GitHub! Here, you’ll find projects that showcase my journey in development, data structures, and algorithms. I'm constantly learning and aiming to make meaningful contributions to the tech community.
+I build software that scales — from APIs and backends to interactive web experiences. I care about clean code, good architecture, and meaningful contributions to open source.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dipexplorer&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/dipexplorer)
 [![LinkedIn](https://img.shields.io/badge/-Dip-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dip-jyoti22/)
 [![Gmail](https://img.shields.io/badge/-dipexplorerid23-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=dipexplorerid23@gmail.com)
 
-- 👯 Excited to collaborate on Full-Stack Web Development projects and Open-source contributions.
-- 🌱 Currently learning Backend Development with Node.js, React, Express, and Advanced DSA Concepts and Strengthening programming fundamentals with Java.
+- 👯 I collaborate on open-source projects — web apps, developer tools, and experimental stuff.
+- 🌱 Currently diving into **Next.js, R3F, Docker, CI/CD**, and strengthening fundamentals with **Java & DSA**.
 
---- 
+---
 
-### 💻 Technologies I Work With
+### 💻 Tech Stack
 
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-gray?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+**Frontend**  
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/-Three.js-000?style=flat&logo=three.js&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/-R3F-000?style=flat&logo=three.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-blue?style=flat&logo=java&logoColor=white)
-![Open Source](https://img.shields.io/badge/-Open%20Source-3DA639?style=flat&logo=opensourceinitiative&logoColor=white)
-![Hacktoberfest](https://img.shields.io/badge/-Hacktoberfest-FF4500?style=flat&logo=hackthebox&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Hoppscotch](https://img.shields.io/badge/-Hoppscotch-3E8A6F?style=flat&logo=hoppscotch&logoColor=white)
+
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Languages & Runtimes**  
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
+
+**AI / ML**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Wix Studio](https://img.shields.io/badge/-Wix%20Studio-000?style=flat&logo=wix&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/-Adobe-E14136?style=flat&logo=adobe&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-7C7C7C?style=flat&logo=robot&logoColor=white)
-![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
 
 ---
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="120px" height="120px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="115px" height="115px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="110px" height="110px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="95px" height="95px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90px" height="90px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="85px" height="85px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px" height="80px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px" height="80px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px" height="80px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px" height="80px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="80px" height="80px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="80px" height="80px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="80px" height="80px" /></a>
 </div>
 
 ---
 
-## CUrrent Holophin Badges - Hactoberfest 
+## Current Holopin Badges - Hacktoberfest
 [![An image of @dipexplorer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipexplorer)](https://holopin.io/@dipexplorer)
-
 
 ---
 
@@ -79,25 +88,15 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dipexplorer&theme=github_dark" />
 </div>
 
-
 ---
 
-## 👯 Let's Collaborate
+## 🤝 Let's Connect
 
-I'm always open to collaborating on exciting full-stack web development projects or any open-source contributions. Feel free to reach out via [LinkedIn](https://linkedin.com/in/dip-jyoti22/) or drop me an email at [dipexplorerid23@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=dipexplorerid23@gmail.com).
-
----
-
-### 📧 Reach Out to Me
+I'm open to collaborating on interesting projects — especially in web development, open-source tooling, and AI/ML. Reach out via [LinkedIn](https://linkedin.com/in/dip-jyoti22/) or [email](mailto:dipexplorerid23@gmail.com).
 
 [![LinkedIn](https://img.shields.io/badge/-Dip-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dip-jyoti22/)
 [![Gmail](https://img.shields.io/badge/-dipexplorerid23-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=dipexplorerid23@gmail.com)
 
 <p align="center">
-  <b>Thank you for visiting my profile! 🌟</b><br>
-  <span>Feel free to explore my projects and reach out if you have any questions! 🚀</span>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=fadeIn&fontColor=ffffff" alt="Footer"/>
+  Thanks for stopping by! 🚀
 </p>

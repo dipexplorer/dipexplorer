@@ -1,13 +1,13 @@
 # Hi there 👋 I'm Dipjyoti Das
 
-I build software that scales — from APIs and backends to interactive web experiences. I care about clean code, good architecture, and meaningful contributions to open source.
+I craft scalable software — APIs, backends, interactive web experiences. Focused on clean code, solid architecture, and contributing to open source that matters.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dipexplorer&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/dipexplorer)
 [![LinkedIn](https://img.shields.io/badge/-Dip-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dip-jyoti22/)
 [![Gmail](https://img.shields.io/badge/-dipexplorerid23-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=dipexplorerid23@gmail.com)
 
-- 👯 I collaborate on open-source projects — web apps, developer tools, and experimental stuff.
-- 🌱 Currently diving into **Next.js, R3F, Docker, CI/CD**, and strengthening fundamentals with **Java & DSA**.
+- 👯 Open to collaborating on open-source projects — web apps, developer tools, and AI/ML experiments.
+- 🌱 Currently diving deep into **AI/ML, NLP, RAG Pipelines** with **Java** — reinforcing **DSA** fundamentals and exploring production-grade implementations.
 
 ---
 
@@ -16,8 +16,8 @@ I build software that scales — from APIs and backends to interactive web exper
 **Frontend**  
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Three.js](https://img.shields.io/badge/-Three.js-000?style=flat&logo=three.js&logoColor=white)
-![React Three Fiber](https://img.shields.io/badge/-R3F-000?style=flat&logo=three.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js%20%2F%20R3F-000?style=flat&logo=three.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -31,18 +31,21 @@ I build software that scales — from APIs and backends to interactive web exper
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Languages & Runtimes**  
+**Languages**  
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-**AI / ML**  
+**AI / ML / Data**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-3B8D5C?style=flat&logo=langchain&logoColor=white)
+![LLMs](https://img.shields.io/badge/-LLMs-4B32C3?style=flat&logo=openai&logoColor=white)
 
 **DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -92,7 +95,7 @@ I build software that scales — from APIs and backends to interactive web exper
 
 ## 🤝 Let's Connect
 
-I'm open to collaborating on interesting projects — especially in web development, open-source tooling, and AI/ML. Reach out via [LinkedIn](https://linkedin.com/in/dip-jyoti22/) or [email](mailto:dipexplorerid23@gmail.com).
+I'm open to collaborating on interesting projects — especially web development, open-source tooling, and AI/ML. Reach out via [LinkedIn](https://linkedin.com/in/dip-jyoti22/) or [email](mailto:dipexplorerid23@gmail.com).
 
 [![LinkedIn](https://img.shields.io/badge/-Dip-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dip-jyoti22/)
 [![Gmail](https://img.shields.io/badge/-dipexplorerid23-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=dipexplorerid23@gmail.com)

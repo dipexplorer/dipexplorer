@@ -1,7 +1,8 @@
 # Hi there 👋 I'm Dipjyoti Das
 
 I build modern web applications, scalable backend systems, and AI-powered developer tools.  
-I focus on writing maintainable software, solving real engineering problems, and contributing to impactful open-source projects.
+Focused on clean architecture, maintainable code, solving real engineering problems, and building impactful open-source projects.
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dipexplorer&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/dipexplorer)
 [![LinkedIn](https://img.shields.io/badge/-Dip-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dip-jyoti22/)
